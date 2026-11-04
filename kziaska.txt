@@ -1,9 +1,0 @@
-Procesor (CPU) odbiera polecenia z pamięci RAM, przetwarza dane w ułamkach sekund, a wynik przesyła z powrotem do pamięci lub na ekran karty graficznej.
-
-Współpraca najważniejszych elementów komputera wygląda następująco:
-
-* **Procesor (CPU):** Mózg systemu. Wykonuje obliczenia i steruje przepływem danych.
-* **Pamięć RAM:** Pamięć podręczna. Przechowuje dane programów, które są w danej chwili uruchomione, aby procesor miał do nich szybki dostęp.
-* **Dysk (SSD/HDD):** Pamięć trwała. Przechowuje system operacyjny, aplikacje i pliki użytkownika po wyłączeniu zasilania.
-* **Karta graficzna (GPU):** Odpowiada za generowanie obrazu i jego renderowanie na monitorze.
-* **Płyta główna:** Łączy wszystkie podzespoły i umożliwia im wymianę informacji za pomocą magistrali danych.
